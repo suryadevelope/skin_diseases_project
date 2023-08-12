@@ -1,2 +1,5 @@
+https://www.kaggle.com/datasets/ismailpromus/skin-diseases-image-dataset?resource=download
+
+download and extract the folders and place IMG_CLASSES folder in new folder called dataset
 pip install -r requirements.txt
 python detect.py to run
