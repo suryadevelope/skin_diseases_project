@@ -1,6 +1,8 @@
 /dataset
 /skin_disease_model.h5
+/svm_image_model.pkl
 /test1.py
 /testDataset
 /train.py
 /venv
+/test4.py
